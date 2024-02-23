@@ -1,0 +1,31 @@
+{
+  "name": "Seabums #1",
+  "description": "Seabums Ocean Crew is a friendly NFT community with focus on helping ocean charities.",
+  "image": "https://ipfs.io/ipfs/QmTV2WqAbFdLYB5xpb4ZKvXBF9uTb8XXfDQppdmBGF5TjL/1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TeamSeas"
+    },
+    {
+      "trait_type": "Fish",
+      "value": "Sunrise"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Starfish Diamond"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Tshirt Bonefish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hippie"
+    },
+    {
+      "trait_type": "Headware",
+      "value": "OC Snapback"
+    }
+  ]
+}
